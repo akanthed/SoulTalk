@@ -73,13 +73,11 @@ sequenceDiagram
 
 ### Demo Visuals
 
-- Add screenshots to `docs/images/` using the filenames below.
-
-![SoulTalk Home](docs/images/home.png)
-
-![SoulTalk Chat](docs/images/chat.png)
-
-![SoulTalk Memory Recall](docs/images/memory-recall.png)
+- 🎬 Demo video: https://youtu.be/uDNVMDsy5Xo
+- Screenshots (place these files in `docs/images/`):
+        - [Home](docs/images/home.png)
+        - [Chat](docs/images/chat.png)
+        - [Memory Recall](docs/images/memory-recall.png)
 
 ---
 
